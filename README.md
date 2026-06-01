@@ -25,4 +25,4 @@ LearnLab is a modern, responsive frontend dashboard built for a seamless student
 
 1. **Clone the repository:**
    ```bash
-   git clone [Insert Your GitHub Repo Link Here]
+   git clone https://github.com/VishwajitPawar001/next-gen-dashboard
